@@ -21,7 +21,7 @@
   width: 100vw;
   overflow-y: scroll;
   background-color: var(--main-color);
-  padding-bottom: 6vh;
+  /* padding-bottom: 6vh; */
 }
 
 .scroll--style {
